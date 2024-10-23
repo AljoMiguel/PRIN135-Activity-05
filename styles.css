@@ -33,3 +33,12 @@ main{
     padding: 25px;
     flex-grow: 3;
 }
+main img{
+    width: 30%;
+    height: 220px;
+    border-radius: 10px;
+    margin: 7px;
+    position: relative; 
+    display: block; 
+
+}
